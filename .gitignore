@@ -1,0 +1,13 @@
+#gitignore template in VSTS
+
+#Ignorelist
+.DS_Store
+Thumbs.db
+.venv/*
+__pycash__/*
+*.pyc
+*.png
+data/*
+*.toml
+*.txt
+*.json
